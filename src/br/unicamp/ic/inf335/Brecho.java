@@ -1,3 +1,5 @@
+package br.unicamp.ic.inf335;
+
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -59,3 +61,4 @@ public class Brecho {
 	}
 
 }
+

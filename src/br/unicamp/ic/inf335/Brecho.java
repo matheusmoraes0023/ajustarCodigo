@@ -10,6 +10,7 @@ public class Brecho {
 	private static ArrayList<ProdutoBean> produtos = new ArrayList<ProdutoBean>();
 	
 	public static void main(String[] args) {
+		// Ajustado
 		ProdutoBean nProg = new ProdutoBean("CD00001","Celular Galaxy S10", "128 Gb, Preto, com Carregador",1250.0,"Poucos riscos, estado de novo.");
 		produtos.add(nProg);
 		nProg = new ProdutoBean("CD00002","Prod 2 ...", "Bla Bla Bla",1100.0,"Bla Bla Bla");

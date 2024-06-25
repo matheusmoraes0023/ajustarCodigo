@@ -1,8 +1,8 @@
-package br.unicamp.ic.inf335.beans;
+package  beans;
 
 public class ProdutoBean implements java.io.Serializable, Comparable<ProdutoBean>{
 	/**
-	 * 
+	 * // Ajustado
 	 */
 	private static final long serialVersionUID = 1L;
 	
